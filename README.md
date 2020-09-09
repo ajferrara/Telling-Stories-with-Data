@@ -16,8 +16,8 @@ I am married with three kids (Isabella (13), Luca (11) and Emma (8).
 I love to cook, garden and play tennis.
 
 # What I Hope to Learn
-I hope to learn how to visualise data better in terms of techique and context.  I also like the concept of using GitHub.
+I hope to learn how to visualise data better in terms of technique and context.  I also like the concept of using GitHub to manage the content and showcase my portfolio.
 
 # Portfolio
-Here is where all the cool visualizations will go
+Here is where all the cool visualizations will go!
 ![Assignment 1](aferrara_assignment_1.xlsx)
