@@ -1,8 +1,9 @@
 # Telling-Stories-with-Data
-# A.J. Ferrara - Portfolio
+
+![Test Image 1](aj_resized.jpg) 
+# A.J. Ferrara - Portfolio  
 MS-BIDA at Carnegie Mellon University - class 'Telling Stories with Data' - Fall 2020
 
-![Test Image 1](aj_resized.jpg)
 
 # About Me
 I am a remote student from the General Motors Technical Education Program
