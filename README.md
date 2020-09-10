@@ -1,4 +1,4 @@
-# Telling-Stories-with-Data
+# Telling.Stories.with.Data
 
 ![Test Image 1](aj_resized.jpg) 
 # A.J. Ferrara
