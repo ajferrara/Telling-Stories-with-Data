@@ -1,7 +1,7 @@
 # Telling-Stories-with-Data
 
 ![Test Image 1](aj_resized.jpg) 
-# A.J. Ferrara - Portfolio  
+# A.J. Ferrara
 MS-BIDA at Carnegie Mellon University - class 'Telling Stories with Data' - Fall 2020
 
 
