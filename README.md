@@ -7,6 +7,8 @@ MS-BIDA at Carnegie Mellon University - class 'Telling Stories with Data' - Fall
 
 # About Me
 I am a remote student from the General Motors Technical Education Program.\
+I have been working with data, business intelligence and data analytics for the past 17 years at GM. \
+For the past three years (along with this program), I have been working on text mining and machine learning against diagnostic trouble code data.\
 After I finish this program, I plan to continue applying what I have learned on the job, as I deliver analytics projects.\
 I would also like to compete on some Kaggle competitions and build up my GitHub portfolio of machine learning/vizualization projects.\
 I also have an MBA and a B.S. in Decision Science.
