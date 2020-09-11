@@ -24,4 +24,5 @@ I hope to learn how to visualise data better in terms of technique and context. 
 Here is where all the cool visualizations will go!\
 [Assignment 1](aferrara_assignment_1.xlsx) 
 
-[King County Covid Chart] <div class="flourish-embed flourish-chart" data-src="visualisation/3707705" data-url="https://flo.uri.sh/visualisation/3707705/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+## King County Covid-19 Chart
+<div class="flourish-embed flourish-chart" data-src="visualisation/3707705" data-url="https://flo.uri.sh/visualisation/3707705/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
