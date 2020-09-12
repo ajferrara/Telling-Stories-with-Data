@@ -24,9 +24,9 @@ I hope to learn how to visualise data better in terms of technique and context. 
 
 # Portfolio
 Here is where all the cool visualizations will go!\
-[Assignment 1](aferrara_assignment_1.xlsx) \
-[King County Covid-19 Chart](/kingcounty.md)\
-[Brazil Golden Oldies Chart](/BrazilInDataWrapper.md)
+* [Assignment 1](aferrara_assignment_1.xlsx) \
+* [King County Covid-19 Chart](/kingcounty.md)\
+* [Brazil Golden Oldies Chart](/BrazilInDataWrapper.md)
 
 
 
