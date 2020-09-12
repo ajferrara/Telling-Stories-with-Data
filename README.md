@@ -25,11 +25,8 @@ I hope to learn how to visualise data better in terms of technique and context. 
 # Portfolio
 Here is where all the cool visualizations will go!\
 [Assignment 1](aferrara_assignment_1.xlsx) 
-
 [King County Covid-19 Chart](/kingcounty.md)
+[Brazil Golden Oldies Chart](/Brazin.md)
 
 
-## Brazil Golden Oldie Chart using Data Wrapper
 
-<iframe title="Brazil's Golden Oldie Blowout" aria-label="chart" id="datawrapper-chart-UYH5i" src="https://datawrapper.dwcdn.net/UYH5i/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
