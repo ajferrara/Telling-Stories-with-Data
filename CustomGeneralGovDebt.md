@@ -1,4 +1,4 @@
-# Debt to GDP Facet Chart
+# Debt to GDP Grid of Line Charts
 
 Below, each OECD country's Debt to GDP Ratio is displayed on their own chart for the years 1995 to 2019.
 
