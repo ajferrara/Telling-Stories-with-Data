@@ -10,7 +10,7 @@ Make sure you clearly identify data elements as necessary and include a clear ti
 
 Finally, use Markdown to write a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization. 
 
-Chart here
+<div class="flourish-embed flourish-chart" data-src="visualisation/3730087" data-url="https://flo.uri.sh/visualisation/3730087/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 [Back to Main Page](https://ajferrara.github.io/Telling.Stories.with.Data/)
