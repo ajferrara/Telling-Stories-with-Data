@@ -7,7 +7,14 @@ This chart shows an almost flat rate for Europe, where they stay below 100 (noti
 <div class="flourish-embed flourish-chart" data-src="visualisation/3730087" data-url="https://flo.uri.sh/visualisation/3730087/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-Finally, use Markdown to write a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization. 
+Bar Chart
+This chart was good for point-in-time status.  It shows the same thing as the line chart, but without the trend, the viewer can't be sure the bars always looked that way.
+
+Grid of Charts
+Too many charts that were not in any order.  It is difficult to see overall patterns.  This type of chart is good if the viewer knows what they want to focus on, like a specific country.  Otherwise, there are too many separate boxes and lines to absorb and make sense of.
+
+Line Chart
+I wanted to see the data over time and capture the increase or decreases.  Ideally, I wanted to only label the first year's ratio and the last year's ratio, but could not figure out how to do it in Flourish.  The trend line allows you to see all the countries or regions on one chart and the use of color (colorbrewer2.0 6-member sequential theme) allowed me to hand pick colors that went together, but still allowed each region to stand out and also be a color that is pleasing to the viewer.
 
 
 [Back to Main Page](https://ajferrara.github.io/Telling.Stories.with.Data/)
