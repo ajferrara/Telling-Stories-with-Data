@@ -16,5 +16,7 @@ Too many charts that were not in any order.  It is difficult to see overall patt
 Line Chart
 I wanted to see the data over time and capture the increase or decreases.  Ideally, I wanted to only label the first year's ratio and the last year's ratio, but could not figure out how to do it in Flourish.  The trend line allows you to see all the countries or regions on one chart and the use of color (colorbrewer2.0 6-member sequential theme) allowed me to hand pick colors that went together, but still allowed each region to stand out and also be a color that is pleasing to the viewer.
 
+With regard to how the viewer 'flows' through the chart, I intentionally remove the Y-axis and labelled the numbers on each line.  Again, I would have preferred just a starting number and an ending number to make the chart very clean.  I made a non-white background to hide the horizontal gridlines, which I could not seem to remove.   I also hoped that with the year timeframe called out in the sub-title, the viewer would not go to the X-axis either.  Most focus should be on the lines and the legend.
+
 
 [Back to Main Page](https://ajferrara.github.io/Telling.Stories.with.Data/)
