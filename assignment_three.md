@@ -26,3 +26,4 @@ I tried to build this visualization in Tableau using a Sankey template, but knew
 Originally, I was not planning on re-doing this 'the greatest infographic of all times' (Tufte), but I found many other charts just did not have that much data points.  I knew I would have a lot of options with this choice.  However, it was very challenging.  I had to learn a lot about the context behind the visualization in order to re-create it.  
 
 ![March on Moscow Re-Design](assignment 3 final viz.PNG)
+[Back to Main Page](https://ajferrara.github.io/Telling.Stories.with.Data/)
