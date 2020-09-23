@@ -1,7 +1,8 @@
 
 ### Assignments Three and Four:  Critique and Visualization Re-Design
 ### Step 1: Find a Visualization
-[Napoleon‘s March on Moscow Original Visualization by Minard](https://upload.wikimedia.org/wikipedia/commons/e/e2/Minard_Update.png | width = 300)
+![Minard's March on Moscow](war of 1812.png) 
+[Napoleon‘s March on Moscow Original Visualization by Minard](https://upload.wikimedia.org/wikipedia/commons/e/e2/Minard_Update.png)
 
 
 
