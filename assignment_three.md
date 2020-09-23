@@ -2,6 +2,7 @@
 ### Assignments Three and Four:  Critique and Visualization Re-Design
 ### Step 1: Find a Visualization
 ![Minard's March on Moscow](minard orig_resized.PNG) 
+
 [Napoleon‘s March on Moscow Original Visualization by Minard](https://upload.wikimedia.org/wikipedia/commons/e/e2/Minard_Update.png)
 
 
@@ -12,7 +13,7 @@ After some research, I was able to understand the information presented, but was
 
 ### Step 3: Wireframe a Solution
 I think the original and my version are not great candidates for standard reporting tools.  I was able to use Balsamiq to create a mock-up, but there were limitations, like inability to change the thickness of the arrows to indicate troop losses/gains.  However, my sketch is below.
-![March on Moscow Mockup](war of 1812 resized3.png) 
+![March on Moscow Mockup](war of 1812 resized.png) 
 
 ### Step 4: Test the Solution
 I asked two people to provide feedback on my mock-up.  My mother-in_law and a fellow student.  My mother-in-law said I should represent the overall troop size and how it shrinks over time.  I did not have this in an earlier mock-up.  She also had some feedback on representing countries and time.
