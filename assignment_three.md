@@ -1,4 +1,5 @@
 
+### A.J. Ferrara
 ### Assignments Three and Four:  Critique and Visualization Re-Design
 ### Step 1: Find a Visualization
 ![Minard's March on Moscow](minard orig_resized.PNG) 
