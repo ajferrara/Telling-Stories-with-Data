@@ -7,8 +7,6 @@
 [Napoleon‘s March on Moscow Original Visualization by Minard](https://upload.wikimedia.org/wikipedia/commons/e/e2/Minard_Update.png)
 
 
-
-
 ### Step 2: Critique the Visualization
 After some research, I was able to understand the information presented, but was not sure what the take-away was.  Clearly, Napoleon lost a lot of troops and found Moscow deserted, but why?  The visualization does not answer this question, it only provides partial clues.  I go into more detail in the Google critique form.
 
