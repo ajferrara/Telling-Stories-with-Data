@@ -8,35 +8,25 @@
 ## A high-level summary of your project
 This should be a sentence or two that describes what you're interested in showing with your final project. \
 
-I am going to talk about the history and usage of herbs in cooking, so that anyone can add some herbs to their meals!
+I am going to explore and rank grocery products by their nutritional value.  
 
 A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.  
 
 Talk about the anticipated call to action and outline your user stories.  
 
 ## Call to Action
-'Go Add Some Herbs to Your Next Meal!'
+'Be more informed on the nurtiion content of food products so that you can eat more healthy.
 
 ## User Stories
-Person that already likes using herbs in their cooking. \
-Person that is curious about using herbs, but not sure how or why to use them. \
-person that uses herbs in their cooking, but could learn more. \
-Person that usually buys dried herbs, but wants to learn about fresh herbs. 
+Can be used by, and has benefits for, a variety of users, including researchers, policy makers, academicians and educators, nutrition and health professionals, product developers, and others.
 
 ## Outline 
 Story arc, etc.
 
-History of herbs and spices 
-https://www.everydayhealth.com/diet-nutrition/igin-herbs-spices/ \
-https://www.universalclass.com/articles/health/herbs/alternative-medicine/a-look-at-the-history-of-herbs.htm#:~:text=Herbs%20were%20first%20introduced%20into,meats%20something%20close%20to%20palatable. \
+ 
 
-Origin of herbs and spices \
-http://www.herbexpert.co.uk/thehistoryofherbs.html
-
-Types of herbs and spices \
-https://en.wikipedia.org/wiki/Outline_of_herbs_and_spices
-
-Uses of herbs and spices \
+ 
+ 
 
 
 
@@ -45,7 +35,8 @@ Uses of herbs and spices \
 
 
 ## Data
-A couple of paragraphs that document the data and how it will be used
+A couple of paragraphs that document the data and how it will be used \
+https://fdc.nal.usda.gov/
 
 
 ## Method and Medium
