@@ -28,7 +28,10 @@ What everything looks like \
 Segmentation by: \
 number of ingredients\
 calories\
-xxxx
+protein \
+sugar\
+salt \
+etc
 
  
  
