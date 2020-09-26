@@ -26,12 +26,27 @@ Person that usually buys dried herbs, but wants to learn about fresh herbs.
 ## Outline 
 Story arc, etc.
 
+History of herbs and spices 
+https://www.everydayhealth.com/diet-nutrition/igin-herbs-spices/ \
+https://www.universalclass.com/articles/health/herbs/alternative-medicine/a-look-at-the-history-of-herbs.htm#:~:text=Herbs%20were%20first%20introduced%20into,meats%20something%20close%20to%20palatable. \
+
+Origin of herbs and spices \
+http://www.herbexpert.co.uk/thehistoryofherbs.html
+
+Types of herbs and spices \
+https://en.wikipedia.org/wiki/Outline_of_herbs_and_spices
+
+Uses of herbs and spices \
+
+
+
 
 ## Sketches
 
 
 ## Data
 A couple of paragraphs that document the data and how it will be used
+
 
 ## Method and Medium
 A few paragraphs documenting how the project will be completed. Platform for the final project identified.
