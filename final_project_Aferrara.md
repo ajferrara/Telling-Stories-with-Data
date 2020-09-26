@@ -23,8 +23,17 @@ Person that is curious about using herbs, but not sure how or why to use them. \
 person that uses herbs in their cooking, but could learn more. \
 Person that usually buys dried herbs, but wants to learn about fresh herbs. 
 
+## Outline 
+Story arc, etc.
 
 
+## Sketches
 
+
+## Data
+A couple of paragraphs that document the data and how it will be used
+
+## Method and Medium
+A few paragraphs documenting how the project will be completed. Platform for the final project identified.
 
 [Back to Main Page](https://ajferrara.github.io/Telling.Stories.with.Data/)
