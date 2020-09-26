@@ -26,6 +26,7 @@ Story arc, etc.
 What everything looks like \
 
 Segmentation by: \
+food group \
 number of ingredients\
 calories\
 protein \
