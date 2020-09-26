@@ -2,7 +2,7 @@
 # Final Project
 
 
-![Test Image 1](download.jfif) 
+![Test Image 1](download2.jpg) 
 
 
 
