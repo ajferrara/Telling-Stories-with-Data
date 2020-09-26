@@ -20,10 +20,10 @@ Talk about the anticipated call to action and outline your user stories.
 Call to Action:  'Go Add Some Herbs to Your Next Meal!'
 
 User Stories:
-Person that already likes using herbs in their cooking.
-Person that is curious about using herbs, but not sure how or why to use them.
-person that uses herbs in their cooking, but could learn more.
-Person that usually buys dried herbs, but wants to learn about fresh herbs.
+Person that already likes using herbs in their cooking. \
+Person that is curious about using herbs, but not sure how or why to use them. \
+person that uses herbs in their cooking, but could learn more. \
+Person that usually buys dried herbs, but wants to learn about fresh herbs. 
 
 
 
