@@ -23,7 +23,12 @@ Can be used by, and has benefits for, a variety of users, including researchers,
 ## Outline 
 Story arc, etc.
 
- 
+What everything looks like \
+
+Segmentation by: \
+number of ingredients\
+calories\
+xxxx
 
  
  
