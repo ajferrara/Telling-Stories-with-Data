@@ -48,11 +48,12 @@ A couple of paragraphs that document the data and how it will be used
 recent article on global EV range by manufacturer and cost to the consumer  (https://www.visualcapitalist.com/range-evs-major-highway-routes/)
 
 #### Setup
-Growing climate change concerns (growing concerns around climate change)
+Growing climate change concerns (growing concerns around climate change) \
+(https://www2.deloitte.com/content/dam/Deloitte/us/Documents/manufacturing/us-2020-global-automotive-consumer-study-global-focus-countries.pdf) \
 Changes in commuting behaviors (https://electrek.co/2020/04/09/study-pandemic-lockdowns-are-encouraging-more-consumers-to-buy-electric-cars/) \
 (https://www.smart-energy.com/industry-sectors/smart-energy/new-study-reveals-interesting-statistics-on-ev-ownership-and-consumer-interest/) \
 (https://www.truecar.com/blog/which-generation-is-going-green/) \
-EV Policy (https://www.nbcnews.com/science/environment/california-gov-signs-order-banning-sale-gasoline-powered-cars-2035-n1240878)
+EV Policy (https://www.nbcnews.com/science/environment/california-gov-signs-order-banning-sale-gasoline-powered-cars-2035-n1240878) \
 (https://www.theguardian.com/environment/2019/dec/25/2020-set-to-be-year-of-the-electric-car-say-industry-analysts)
 
 #### Conflict
