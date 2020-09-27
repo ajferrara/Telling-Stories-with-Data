@@ -18,20 +18,20 @@ Talk about the anticipated call to action and outline your user stories.
 Be more confident to make the switch from a gasoline-powered vehicle to an electricity-powered vehicle
 
 ## User Stories
-Environmentally-conscious consumer
-Gas-powered vehicle owner
-Policy-makers
+Environmentally-conscious consumer \
+Gas-powered vehicle owner \
+Policy-makers \
 Early adopters for new technology
 
 
 ## Outline 
 Story arc, etc.
 
- Setup:  The increased interest in EVs (show sales over time)
+ Setup:  The increased interest in EVs (show sales over time) \
  
- Conflict:  Reasons for slower or no-adoption (battery range, cost...)
+ Conflict:  Reasons for slower or no-adoption (battery range, cost...) \
  
- Resolution:  Solutions to mitigate conflict
+ Resolution:  Solutions to mitigate conflict \
 
  
  
@@ -48,23 +48,23 @@ A couple of paragraphs that document the data and how it will be used \
 recent article on global EV range by manufacturer and cost to the consumer  (https://www.visualcapitalist.com/range-evs-major-highway-routes/)
 
 #### Setup
-Growing climate change concerns (growing concerns around climate change)
-Changes in commuting behaviors (????)
+Growing climate change concerns (growing concerns around climate change) \
+Changes in commuting behaviors (????) \
 EV Policy (https://www.nbcnews.com/science/environment/california-gov-signs-order-banning-sale-gasoline-powered-cars-2035-n1240878)
 
 #### Conflict
-EV range and cost (https://www.fueleconomy.gov/)
-EV battery charge time (Audi recently rolled out a supercharger network that can charge its cars from 0% to 80% at a faster rate than Tesla)
+EV range and cost (https://www.fueleconomy.gov/) \
+EV battery charge time (Audi recently rolled out a supercharger network that can charge its cars from 0% to 80% at a faster rate than Tesla) \
 EV Infrastructure (???)
 
 #### Resolution
-Growth in infrastructure (???)
-better range (???)
+Growth in infrastructure (???) \
+better range (???) \
 Faster to charge batteries (???)
 
 #### Call to Action
-EV sales prediction (https://about.bnef.com/electric-vehicle-outlook/)
-EV sales (https://www.visualcapitalist.com/electric-vehicle-sales/)
+EV sales prediction (https://about.bnef.com/electric-vehicle-outlook/) \
+EV sales (https://www.visualcapitalist.com/electric-vehicle-sales/) \
 
 
 ## Method and Medium
