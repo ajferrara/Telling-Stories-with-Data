@@ -27,11 +27,11 @@ Early adopters for new technology
 ## Outline 
 Story arc, etc.
 
- Setup:  The increased interest in EVs (show sales over time) \
+ Setup:  The increased interest in EVs (show sales over time) 
  
- Conflict:  Reasons for slower or no-adoption (battery range, cost...) \
+ Conflict:  Reasons for slower or no-adoption (battery range, cost...)
  
- Resolution:  Solutions to mitigate conflict \
+ Resolution:  Solutions to mitigate conflict
 
  
  
@@ -43,12 +43,12 @@ Story arc, etc.
 
 
 ## Data
-A couple of paragraphs that document the data and how it will be used \
+A couple of paragraphs that document the data and how it will be used 
 
 recent article on global EV range by manufacturer and cost to the consumer  (https://www.visualcapitalist.com/range-evs-major-highway-routes/)
 
 #### Setup
-Growing climate change concerns (growing concerns around climate change) \
+Growing climate change concerns (growing concerns around climate change)
 Changes in commuting behaviors (????) \
 EV Policy (https://www.nbcnews.com/science/environment/california-gov-signs-order-banning-sale-gasoline-powered-cars-2035-n1240878)
 
@@ -63,8 +63,8 @@ better range (???) \
 Faster to charge batteries (???)
 
 #### Call to Action
-EV sales prediction (https://about.bnef.com/electric-vehicle-outlook/) \
-EV sales (https://www.visualcapitalist.com/electric-vehicle-sales/) \
+EV sales prediction (https://about.bnef.com/electric-vehicle-outlook/) 
+EV sales (https://www.visualcapitalist.com/electric-vehicle-sales/) 
 
 
 ## Method and Medium
