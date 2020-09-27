@@ -49,13 +49,18 @@ recent article on global EV range by manufacturer and cost to the consumer  (htt
 
 #### Setup
 Growing climate change concerns (growing concerns around climate change)
-Changes in commuting behaviors (????) \
+Changes in commuting behaviors (https://electrek.co/2020/04/09/study-pandemic-lockdowns-are-encouraging-more-consumers-to-buy-electric-cars/) \
+(https://www.smart-energy.com/industry-sectors/smart-energy/new-study-reveals-interesting-statistics-on-ev-ownership-and-consumer-interest/) \
+(https://www.truecar.com/blog/which-generation-is-going-green/) \
 EV Policy (https://www.nbcnews.com/science/environment/california-gov-signs-order-banning-sale-gasoline-powered-cars-2035-n1240878)
+(https://www.theguardian.com/environment/2019/dec/25/2020-set-to-be-year-of-the-electric-car-say-industry-analysts)
 
 #### Conflict
 EV range and cost (https://www.fueleconomy.gov/) \
 EV battery charge time (Audi recently rolled out a supercharger network that can charge its cars from 0% to 80% at a faster rate than Tesla) \
 EV Infrastructure (???)
+
+(https://wallbox.com/en_us/how-do-evs-compare-to-gas-cars)
 
 #### Resolution
 Growth in infrastructure (???) \
