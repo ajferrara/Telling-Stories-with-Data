@@ -11,7 +11,7 @@ A project structure that outlines the major elements of your story.  Your Good C
 Talk about the anticipated call to action and outline your user stories.  
 
 ## Call to Action
-Be more confident to make the switch from a gasoline-powered vehicle to an electricity-powered vehicle
+Be more confident to make the switch to an EV!
 
 ## User Stories
 Environmentally-conscious consumer \
@@ -35,11 +35,9 @@ Story arc, etc.
 
 
 
-## Sketches
+## Sketches / Wireframe:
 
-Climate Change
 
-A Change in Driving Patterns (covid, climate change, millenials)
 
 
 
@@ -90,6 +88,6 @@ EV sales (https://www.visualcapitalist.com/electric-vehicle-sales/)
 
 
 ## Method and Medium
-A few paragraphs documenting how the project will be completed. Platform for the final project identified.
+Shorthand will be used to build the story.  I will also use Canva to build Infographics.  Tableau or Flourish will be used to build the charts.
 
 [Back to Main Page](https://ajferrara.github.io/Telling.Stories.with.Data/)
