@@ -72,15 +72,21 @@ EV Policy (https://www.nbcnews.com/science/environment/california-gov-signs-orde
 #### Conflict
 EV range and cost (https://www.fueleconomy.gov/) \
 EV battery charge time (Audi recently rolled out a supercharger network that can charge its cars from 0% to 80% at a faster rate than Tesla) \
+https://evcharging.enelx.com/news/blog/512-electric-car-battery-life
 EV Infrastructure (???)
 
 (https://wallbox.com/en_us/how-do-evs-compare-to-gas-cars)
 
 #### Resolution
 Growth in infrastructure (???) \
+https://afdc.energy.gov/fuels/electricity_locations.html#/analyze?fuel=ELEC
+https://evadoption.com/ev-charging-stations-statistics/
 better range (???) \
 https://afdc.energy.gov/data/
+https://www.energy.gov/eere/vehicles/articles/fotw-1064-january-14-2019-median-all-electric-vehicle-range-grew-73-miles
 Faster to charge batteries (???)
+https://www.pocket-lint.com/gadgets/news/130380-future-batteries-coming-soon-charge-in-seconds-last-months-and-power-over-the-air
+https://www.atlasevhub.com/materials/state-ev-registration-data/
 
 #### Call to Action
 EV sales prediction (https://about.bnef.com/electric-vehicle-outlook/) 
