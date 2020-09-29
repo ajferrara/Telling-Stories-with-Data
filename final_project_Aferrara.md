@@ -41,6 +41,12 @@ Story arc, etc.
 
 ## Sketches
 
+Climate Change
+
+A Change in Driving Patterns (covid, climate change, millenials)
+
+
+
 
 ## Data
 A couple of paragraphs that document the data and how it will be used 
@@ -49,9 +55,11 @@ recent article on global EV range by manufacturer and cost to the consumer  (htt
 
 #### Setup
 Growing climate change concerns (growing concerns around climate change) \
+https://climate.nasa.gov/evidence/ \
 (https://www.eei.org/issuesandpolicy/electrictransportation/Documents/Accelerating_EV_Adoption_final_Feb2018.pdf) \
 (https://www2.deloitte.com/content/dam/Deloitte/us/Documents/manufacturing/us-2020-global-automotive-consumer-study-global-focus-countries.pdf) \
 Changes in commuting behaviors (https://electrek.co/2020/04/09/study-pandemic-lockdowns-are-encouraging-more-consumers-to-buy-electric-cars/) \
+https://www.venson.com/Media/ViewNews/177 \
 (https://www.smart-energy.com/industry-sectors/smart-energy/new-study-reveals-interesting-statistics-on-ev-ownership-and-consumer-interest/) \
 (https://www.truecar.com/blog/which-generation-is-going-green/) \
 EV Policy (https://www.nbcnews.com/science/environment/california-gov-signs-order-banning-sale-gasoline-powered-cars-2035-n1240878) \
