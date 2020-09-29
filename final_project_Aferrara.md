@@ -1,10 +1,6 @@
 
 # Final Project | A.J. Ferrara | Fall 2020 | 94-870
 
-
-![Test Image 1](download2.jpg) 
-
-
 ## A high-level summary of your project
 This should be a sentence or two that describes what you're interested in showing with your final project. \
 
