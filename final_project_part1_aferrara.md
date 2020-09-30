@@ -33,9 +33,9 @@ Story arc, etc.
 ## Sketches / Wireframe:
 
 
-![Test Image 1](img src="final project part 1 wf.png" width="200"/) 
+![Test Image 1]<img src="final project part 1 wf.png" width="200"/>
 
-
+![Test Image 1](final project part 1 wf.png)
 
 ## Data
 A couple of paragraphs that document the data and how it will be used 
