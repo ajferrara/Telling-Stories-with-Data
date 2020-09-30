@@ -92,8 +92,8 @@ Show a picture of a happy Tesla owner.
 
 
 ## Method and Medium
-Shorthand will be used to build the story.  I would like to use compelling images behind the charts and words.
-I will also use Canva to build Infographics.  Some of the datapoints lend well to an infographic because the points may not be entirely related or in a quantity to show on a normal chart.
+Shorthand will be used to build the story.  I would like to use compelling images behind the charts and words.  
+I will also use Canva to build Infographics.  Some of the datapoints lend well to an infographic because the points may not be entirely related or in a quantity to show on a normal chart.  
 Tableau or Flourish will be used to build the charts.
 
 
