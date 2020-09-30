@@ -73,7 +73,7 @@ https://www.pocket-lint.com/gadgets/news/130380-future-batteries-coming-soon-cha
 https://www.atlasevhub.com/materials/state-ev-registration-data/
 
 #### Call to Action
-Show a picture of a hip, happy Tesla owner.
+Show a picture of a happy Tesla owner.
 
 
 ## Method and Medium
