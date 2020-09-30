@@ -10,9 +10,9 @@ Be more confident to make the switch to an EV!
 ## User Stories
 The user stories will address environmental, range and battery recharging and political benefits to EV ownership.
 
-As an Environmentally-conscious consumer, I would like to understand how EVs are better for the environment.
-As a Gas-powered vehicle owner, I would like to understand now I can drive farther without anxiety.
-As a Policy-maker, I would like to understand how EVs are better for the United States.
+As an Environmentally-conscious consumer, I would like to understand how EVs are better for the environment.  
+As a Gas-powered vehicle owner, I would like to understand now I can drive farther without anxiety.  
+As a Policy-maker, I would like to understand how EVs are better for the United States.  
 
 ## Outline 
 Story arc, etc.
