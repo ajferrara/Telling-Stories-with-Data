@@ -33,7 +33,7 @@ Story arc, etc.
 ## Sketches / Wireframe:
 
 
-<img src="final project part 1 wf.png" width="400"/>
+<img src="final project part 1 wf.png" width="600"/>
 
 
 
