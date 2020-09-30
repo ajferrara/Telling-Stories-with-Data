@@ -30,15 +30,10 @@ Story arc, etc.
  Resolution:  Solutions to mitigate conflict
 
  
- 
-
-
-
-
 ## Sketches / Wireframe:
 
 
-
+![Test Image 1](final project part 1 wf.png) 
 
 
 
