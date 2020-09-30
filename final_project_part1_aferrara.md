@@ -33,7 +33,7 @@ Story arc, etc.
 ## Sketches / Wireframe:
 
 
-![Test Image 1](final project part 1 wf.png) 
+![Test Image 1](final project part 1 wf.png =250x) 
 
 
 
