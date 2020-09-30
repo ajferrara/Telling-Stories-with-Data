@@ -2,32 +2,26 @@
 # Final Project Part 1 | A.J. Ferrara | Fall 2020 | 94-870
 
 ## A high-level summary of your project
-This should be a sentence or two that describes what you're interested in showing with your final project. \
-
-There is a lot more interest in electric vehicles (EVs), so I am going to explore the reasons for the increased interest,  the obstacles that are preventing most people from buying them and showcase the key players and some resolutions to why EV adoption is slow.
-
-A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.  
-
-Talk about the anticipated call to action and outline your user stories.  
+There is a lot more interest in electric vehicles (EVs), so I am going to explore the reasons for the increased interest,  the obstacles that are preventing most people from buying them and showcase the key players and some resolutions to address low EV adoption.
 
 ## Call to Action
 Be more confident to make the switch to an EV!
 
 ## User Stories
-Environmentally-conscious consumer \
-Gas-powered vehicle owner \
-Policy-makers \
-Early adopters for new technology
+The user stories will address environmental, range and battery recharging and political benefits to EV ownership.
 
+As an Environmentally-conscious consumer, I would like to understand how EVs are better for the environment.
+As a Gas-powered vehicle owner, I would like to understand now I can drive farther without anxiety.
+As a Policy-maker, I would like to understand how EVs are better for the United States.
 
 ## Outline 
 Story arc, etc.
 
- Setup:  The increased interest in EVs (show sales over time) 
+ Setup:  There is an increase in EV sales due to several factors such as: climate change, millenial attitudes, early adopters and policies.
  
- Conflict:  Reasons for slower or no-adoption (battery range, cost...)
+ Conflict:  Mass adoption is slow due to range anxiety and cost.
  
- Resolution:  Solutions to mitigate conflict
+ Resolution:  Solutions to mitigate and understand the conflict
 
  
 ## Sketches / Wireframe:
@@ -38,11 +32,13 @@ Story arc, etc.
 
 
 ## Data
-A couple of paragraphs that document the data and how it will be used 
+I have found several articles that contain data and charts to help tell the story.
 
 recent article on global EV range by manufacturer and cost to the consumer  (https://www.visualcapitalist.com/range-evs-major-highway-routes/)
 
 #### Setup
+EV sales prediction (https://about.bnef.com/electric-vehicle-outlook/) 
+EV sales (https://www.visualcapitalist.com/electric-vehicle-sales/) 
 Growing climate change concerns (growing concerns around climate change) \
 https://climate.nasa.gov/evidence/ \
 https://www.sciencedirect.com/science/article/pii/S0048969720333842 
@@ -78,8 +74,7 @@ https://www.pocket-lint.com/gadgets/news/130380-future-batteries-coming-soon-cha
 https://www.atlasevhub.com/materials/state-ev-registration-data/
 
 #### Call to Action
-EV sales prediction (https://about.bnef.com/electric-vehicle-outlook/) 
-EV sales (https://www.visualcapitalist.com/electric-vehicle-sales/) 
+Show a picture of a hip, happy Tesla owner.
 
 
 ## Method and Medium
