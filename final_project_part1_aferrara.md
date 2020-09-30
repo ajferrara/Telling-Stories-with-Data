@@ -15,7 +15,6 @@ As a Gas-powered vehicle owner, I would like to understand now I can drive farth
 As a Policy-maker, I would like to understand how EVs are better for the United States.  
 
 ## Outline 
-Story arc, etc.
 
  Setup:  There is an increase in EV sales due to several factors such as: climate change, millenial attitudes, early adopters and policies.
  
