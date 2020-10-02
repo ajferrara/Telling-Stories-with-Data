@@ -106,7 +106,7 @@ Tableau or Flourish will be used to build the charts.
 
 ### References  
 Landing Page Images  
-https://unsplash.com/s/photos/mitchell-kmetz
+https://unsplash.com/s/photos/mitchell-kmetz  
 https://pxhere.com/en/photo/1028722
 
 [Back to Main Page](https://ajferrara.github.io/Telling.Stories.with.Data/)
