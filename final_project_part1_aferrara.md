@@ -90,7 +90,7 @@ Faster to charge batteries
 https://www.pocket-lint.com/gadgets/news/130380-future-batteries-coming-soon-charge-in-seconds-last-months-and-power-over-the-air
 https://www.atlasevhub.com/materials/state-ev-registration-data/
 
-Testimonials 
+Testimonials   
 https://cleanvehiclerebate.org/eng/ev/testimonials
 
 #### Call to Action
