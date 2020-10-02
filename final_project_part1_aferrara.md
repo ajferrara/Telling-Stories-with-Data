@@ -70,7 +70,10 @@ EV Infrastructure
 https://chart-na1.emarketer.com/234301/perception-of-battery-electric-vehicles-bevs-among-us-adults-may-2019-of-respondents
 (https://wallbox.com/en_us/how-do-evs-compare-to-gas-cars)
 
-#### Resolution
+#### Resolution 
+Avg Miles Driven is well within EV range 
+https://www.fhwa.dot.gov/ohim/onh00/bar8.htm
+
 Growth in infrastructure  
 https://afdc.energy.gov/fuels/electricity_locations.html#/analyze?fuel=ELEC
 https://evadoption.com/ev-charging-stations-statistics/
@@ -86,6 +89,9 @@ https://www.energy.gov/eere/vehicles/articles/fotw-1064-january-14-2019-median-a
 Faster to charge batteries  
 https://www.pocket-lint.com/gadgets/news/130380-future-batteries-coming-soon-charge-in-seconds-last-months-and-power-over-the-air
 https://www.atlasevhub.com/materials/state-ev-registration-data/
+
+Testimonials 
+https://cleanvehiclerebate.org/eng/ev/testimonials
 
 #### Call to Action
 Show a picture of a happy Tesla owner.
