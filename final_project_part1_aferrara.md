@@ -93,6 +93,7 @@ https://www.atlasevhub.com/materials/state-ev-registration-data/
 Testimonials   
 https://cleanvehiclerebate.org/eng/ev/testimonials
 
+
 #### Call to Action
 Show a picture of a happy Tesla owner.
 
@@ -102,5 +103,10 @@ Shorthand will be used to build the story.  I would like to use compelling image
 I will also use Canva to build Infographics.  Some of the datapoints lend well to an infographic because the points may not be entirely related or in a quantity to show on a normal chart.  
 Tableau or Flourish will be used to build the charts.
 
+
+### References  
+Landing Page Images  
+https://unsplash.com/s/photos/mitchell-kmetz
+https://pxhere.com/en/photo/1028722
 
 [Back to Main Page](https://ajferrara.github.io/Telling.Stories.with.Data/)
