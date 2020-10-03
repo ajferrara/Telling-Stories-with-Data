@@ -25,7 +25,7 @@ As a Policy-maker, I would like to understand how EVs are better for the United 
 ## Sketches / Wireframe:
 
 
-<img src="final project part 1 wf.png" width="600"/>
+<img src="final project part 2 wf.png" width="900"/>
 
 
 
