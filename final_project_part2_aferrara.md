@@ -105,10 +105,16 @@ I will also use Canva to build Infographics.  Some of the datapoints lend well t
 Tableau or Flourish will be used to build the charts.
 
 
+
+
+
 ### References  
 Landing Page Images  
 https://unsplash.com/s/photos/mitchell-kmetz  
 https://pxhere.com/en/photo/1028722
+
+Last Page Image
+https://pixabay.com/photos/car-electric-tesla-electric-car-1209912/
 
 [Back to Main Page](https://ajferrara.github.io/Telling.Stories.with.Data/)
 
