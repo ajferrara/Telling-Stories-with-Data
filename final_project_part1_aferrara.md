@@ -16,7 +16,7 @@ As a Policy-maker, I would like to understand how EVs are better for the United 
 
 ## Outline 
 
- Setup:  There is an increase in EV sales due to several factors such as: climate change, change in driving patterns, early adopters and policies.
+ Setup:  There is an increase in EV sales due to several factors such as: climate change, appeal of the technology and policies.
  
  Conflict:  Mass adoption is slow due to range anxiety and cost.
  
@@ -42,15 +42,8 @@ Discuss why sales have been increasing:
 Climate Change - show how atmospheric carbon dioxide has been increasing over time.
 https://climate.nasa.gov/evidence/  
 
-Change in Driving Patterns -  
-https://chart-na1.emarketer.com/237272/how-has-spread-of-coronavirus-changed-us-internet-users-interest-purchasing-electric-vehicle-of-respondents-april-2020  
-https://electrek.co/2020/04/09/study-pandemic-lockdowns-are-encouraging-more-consumers-to-buy-electric-cars/  
-https://www.venson.com/Media/ViewNews/177
-
-
-Incentives -  While the large incentives are going away for key players, there have been large incentives up until recent times. 
-https://blog.burnsmcd.com/which-incentives-are-driving-electric-vehicle-adoption
-
+Appeal of the technology -  
+https://www.zeroto60times.com/browse-by-make/
 
 Policies - 
  (https://www.nbcnews.com/science/environment/california-gov-signs-order-banning-sale-gasoline-powered-cars-2035-n1240878)  
