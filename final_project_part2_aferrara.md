@@ -28,6 +28,16 @@ As a Policy-maker, I would like to understand how EVs are better for the United 
 <img src="final project part 2 wf.png" width="900"/>
 
 
+
+## User Research and Interviews
+
+a. the target audience you hope to reach with your story;  
+b. your approach to identifying representative individuals to interview;  
+c. your interview script;  
+d. the findings from your interviews; and  
+e. changes you plan on implementing to your visualizations next week to address the issues identified.  
+
+
 ## Data
 I have found several articles that contain data and charts to help tell the story.  I will not use all articles, but I wanted a variety to choose from.
 
