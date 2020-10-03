@@ -28,7 +28,6 @@ As a Policy-maker, I would like to understand how EVs are better for the United 
 <img src="final project part 2 wf.png" width="900"/>
 
 
-
 ## Data
 I have found several articles that contain data and charts to help tell the story.  I will not use all articles, but I wanted a variety to choose from.
 
