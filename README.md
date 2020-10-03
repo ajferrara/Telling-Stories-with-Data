@@ -31,7 +31,10 @@ Here is where all the cool visualizations will go!
 * [General Government Debt Grid of Line Charts](/CustomGeneralGovDebt.md)
 * [Custom Government Debt Chart](/ThirdVizAssignment2.md)
 * [Assignment Three and Four](/assignment_three.md)
-* [Final Project: Part 1](/final_project_part1_aferrara.md)
+* [Final Project: Part 1](/final_project_part1_aferrara.md)  
+* [Final Project: Part 2](/final_project_part2_aferrara.md)
+
+
 
 
 
