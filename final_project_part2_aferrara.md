@@ -1,4 +1,4 @@
-# Final Project Part 2 | A.J. Ferrara | Fall 2020 | 94-870
+# Final Project Part 2 | A.J. Ferrara | Fall 2020 | 94-870   
 
 ## A high-level summary of your project
 There is a lot more interest in electric vehicles (EVs), so I am going to explore the reasons for the increased interest,  the obstacles that are preventing most people from buying them and showcase the key players and some resolutions to address low EV adoption.
