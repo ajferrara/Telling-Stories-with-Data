@@ -25,32 +25,32 @@ As a Policy-maker, I would like to understand how EVs are better for the United 
 ## Sketches
 
 
-<img src="chart1.png" width="500"/>
+<img src="chart1.PNG" width="500"/>
 
 
-<img src="chart2.png" width="500"/>
+<img src="chart2.PNG" width="500"/>
 
 
-<img src="chart3.png" width="500"/>
+<img src="chart3.PNG" width="500"/>
 
 
-<img src="chart4.png" width="500"/>
+<img src="chart4.PNG" width="500"/>
 
-<img src="chart5.png" width="500"/>
+<img src="chart5.PNG" width="500"/>
 
-<img src="chart6.png" width="500"/>
+<img src="chart6.PNG" width="500"/>
 
-<img src="chart7.png" width="500"/>
+<img src="chart7.PNG" width="500"/>
 
-<img src="chart8.png" width="500"/>
+<img src="chart8.PNG" width="500"/>
 
-<img src="chart9.png" width="500"/>
+<img src="chart9.PNG" width="500"/>
 
-<img src="chart10.png" width="500"/>
+<img src="chart10.PNG" width="500"/>
 
-<img src="chart11.png" width="500"/>
+<img src="chart11.PNG" width="500"/>
 
-<img src="chart12.png" width="500"/>
+<img src="chart12.PNG" width="500"/>
 
 ## User Research and Interviews
 
