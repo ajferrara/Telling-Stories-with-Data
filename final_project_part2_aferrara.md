@@ -22,20 +22,47 @@ As a Policy-maker, I would like to understand how EVs are better for the United 
  Resolution:  Solutions to mitigate and understand the conflict
 
  
-## Sketches / Wireframe:
+## Sketches
 
 
-<img src="final project part 2 wf.png" width="900"/>
+<img src="chart1.png" width="500"/>
 
 
+<img src="chart2.png" width="500"/>
+
+
+<img src="chart3.png" width="500"/>
+
+
+<img src="chart4.png" width="500"/>
+
+<img src="chart5.png" width="500"/>
+
+<img src="chart6.png" width="500"/>
+
+<img src="chart7.png" width="500"/>
+
+<img src="chart8.png" width="500"/>
+
+<img src="chart9.png" width="500"/>
+
+<img src="chart10.png" width="500"/>
+
+<img src="chart11.png" width="500"/>
+
+<img src="chart12.png" width="500"/>
 
 ## User Research and Interviews
 
-a. the target audience you hope to reach with your story;  
+a. the target audience you hope to reach with your story;   
+Folks who may be unsure if an EV purchase is right for them.
+
 b. your approach to identifying representative individuals to interview;  
 c. your interview script;  
 d. the findings from your interviews; and  
 e. changes you plan on implementing to your visualizations next week to address the issues identified.  
+
+
 
 
 ## Data
