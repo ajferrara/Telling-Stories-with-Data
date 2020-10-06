@@ -2,7 +2,7 @@
 
 ## Title:  Electric Vehicles are Here to Stay and Save the Planet
 
-<img src="mitchell-kmetz-xdk3tVmRxEQ-unsplash.jpg" width="500"/>
+<img src="mitchell-kmetz-xdk3tVmRxEQ-unsplash.jpg" width="800"/>
 
 
 ## A high-level summary of your project
