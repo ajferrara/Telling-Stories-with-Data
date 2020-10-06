@@ -174,7 +174,7 @@ I will also use Canva to build Infographics.  Some of the datapoints lend well t
 Tableau or Flourish will be used to build the charts.
 
 
-<img src="car-1209912_1280.jpg" width="900"/>
+<img src="inside model 3.jpg" width="900"/>
 
 
 ### References  
