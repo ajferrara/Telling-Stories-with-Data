@@ -34,6 +34,11 @@ Global sales have been increasing year over year.  My mother and members of my e
  
 <img src="sales_chart.PNG" width="800"/>
 
+
+
+
+<img src="pro and cons summary.PNG" width="800"/>
+
  Due to:
  **Reasons for Increased Demand**
 
