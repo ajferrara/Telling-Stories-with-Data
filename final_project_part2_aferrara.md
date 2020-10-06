@@ -21,10 +21,19 @@ As a Policy-maker, I would like to understand how EVs are better for the United 
 ## Outline 
 
 **Setup:  There is an increase in EV sales due to several factors such as: climate change, innovative technology and policies.** 
+
+**Conflict:  Mass adoption is slow due to range anxiety and cost.** 
+
+**Resolution:  Solutions to mitigate and understand the conflict** 
  
+ 
+## Sketches 
+
 **Increased Sales** 
 Global sales have been increasing year over year.  My mother and members of my extended family have recently purchased electric vehicles.  Tesla is all over the news with their cars and cyber truck.  I wonder why all the interest?
  
+<img src="chart1.PNG" width="800"/>
+
  Due to:
  
 
@@ -32,59 +41,38 @@ Global sales have been increasing year over year.  My mother and members of my e
 A recent study has shown that electric vehicles can reduce hundreds of millions of carbon dioxide emissions, as well as prevent numerous premature deaths due to pullution (https://www.sciencedaily.com/releases/2020/08/200817123107.htm).  Since 1900, the atmopheric temperature has increase by one degree Celsius.  Most of the warming has occurred in the past forty years, with the six hottest years taking place since 2014 (https://climate.nasa.gov/evidence/).
  
  
+<img src="chart2.PNG" width="800"/>
+
 **Innovative Technology**  
 Electric vehicles are fast.  When you take off from a stop light, you feel like you are taking off in an airplane.   Electric vehicles have instant torque due to fewer moving parts and powerful battery (https://theconversation.com/heres-why-electric-cars-have-plenty-of-grunt-oomph-and-torque-115356).   They are also very quiet and very high-tech.  For example, when a driver walks to their Tesla, the door handles slide out!  
  
  
+<img src="chart3.PNG" width="800"/>
+
 **Government Policies (Incentives)**  
 The Federal Government provides tax credits from $7500 to help offset the higher electric vehicle cost, as well as promote technology that is good for the environment and good for the United States (local energy source) (https://www.caranddriver.com/research/a31267893/electric-vehicle-tax-credit/).
- 
- 
- 
- **Conflict:  Mass adoption is slow due to range anxiety and cost.** 
- 
- Most people, when asked, will say they need much more range to drive their vehicle than they actually use.  This is known as 'range anxiety'.  
- 
- 
- 
- 
- Cost has been another barrier to EV adoption.  
- 
- 
- 
- **Resolution:  Solutions to mitigate and understand the conflict** 
- 
- 
- Range Anxiety --> more charging stations
- 
- 
- Cost --> at home charging and more options so that price goes down.
- 
- Benefits to the economy and the US
-
- 
-## Sketches
-
-
-
-<img src="chart1.PNG" width="800"/>
-
-
-<img src="chart2.PNG" width="800"/>
-
-
-<img src="chart3.PNG" width="800"/>
 
 
 <img src="chart4.PNG" width="800"/>
 
+ Most people, when asked, will say they need much more range to drive their vehicle than they actually use.  This is known as 'range anxiety'.  
+
 <img src="chart5.PNG" width="800"/>
+
+ Cost has been another barrier to EV adoption.  
 
 <img src="chart6.PNG" width="800"/>
 
+Range Anxiety --> more charging stations
+
 <img src="chart7.PNG" width="800"/>
 
+ Cost --> at home charging and more options so that price goes down.
+
 <img src="chart8.PNG" width="800"/>
+
+ 
+ Benefits to the economy and the US
 
 <img src="chart9.PNG" width="800"/>
 
