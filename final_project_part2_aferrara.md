@@ -81,7 +81,7 @@ Range Anxiety --> more charging stations
 
 A big reason why EV sales increased is because battery prices have come down.
 
-<img src="chart12.PNG" width="800"/>
+<img src="battery cost down trend.PNG" width="800"/>
 
 ## User Research and Interviews
 
