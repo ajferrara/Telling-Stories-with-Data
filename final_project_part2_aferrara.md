@@ -71,10 +71,7 @@ The Federal Government provides tax credits from $7500 to help offset the higher
 
 Range Anxiety --> more charging stations
 
-<img src="chart6.PNG" width="800"/>
-
 <img src="chart7.PNG" width="800"/>
-
 
 
 <img src="chart8.PNG" width="800"/>
