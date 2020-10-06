@@ -71,11 +71,13 @@ Range Anxiety --> more charging stations
  
   Cost --> at home charging and more options so that price goes down.
  
-
-
 <img src="chart9.PNG" width="800"/>
 
-<img src="chart10.PNG" width="800"/>
+As more manufacturers and models come onto the market, the driving range has dramatically increased.
+
+<img src="chart10.PNG" width="1000"/>
+
+To complement the longer range, more fast charging stations have been built around the country.
 
 <img src="chart11.PNG" width="800"/>
 
