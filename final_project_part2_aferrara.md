@@ -70,29 +70,29 @@ The Federal Government provides tax credits from $7500 to help offset the higher
 <img src="chart1.PNG" width="500"/>
 
 
-<img src="chart2.PNG" width="500"/>
+<img src="chart2.PNG" width="800"/>
 
 
-<img src="chart3.PNG" width="500"/>
+<img src="chart3.PNG" width="800"/>
 
 
-<img src="chart4.PNG" width="500"/>
+<img src="chart4.PNG" width="800"/>
 
-<img src="chart5.PNG" width="500"/>
+<img src="chart5.PNG" width="800"/>
 
-<img src="chart6.PNG" width="500"/>
+<img src="chart6.PNG" width="800"/>
 
-<img src="chart7.PNG" width="500"/>
+<img src="chart7.PNG" width="800"/>
 
-<img src="chart8.PNG" width="500"/>
+<img src="chart8.PNG" width="800"/>
 
-<img src="chart9.PNG" width="500"/>
+<img src="chart9.PNG" width="800"/>
 
-<img src="chart10.PNG" width="500"/>
+<img src="chart10.PNG" width="800"/>
 
-<img src="chart11.PNG" width="500"/>
+<img src="chart11.PNG" width="800"/>
 
-<img src="chart12.PNG" width="500"/>
+<img src="chart12.PNG" width="800"/>
 
 ## User Research and Interviews
 
