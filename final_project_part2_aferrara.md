@@ -35,7 +35,7 @@ Global sales have been increasing year over year.  My mother and members of my e
 <img src="sales_chart.PNG" width="800"/>
 
  Due to:
- 
+ ** Reasons for Increased Demand
 
 **Climate Change**  
 A recent study has shown that electric vehicles can reduce hundreds of millions of carbon dioxide emissions, as well as prevent numerous premature deaths due to pullution (https://www.sciencedaily.com/releases/2020/08/200817123107.htm).  Since 1900, the atmopheric temperature has increase by one degree Celsius.  Most of the warming has occurred in the past forty years, with the six hottest years taking place since 2014 (https://climate.nasa.gov/evidence/).
@@ -53,6 +53,8 @@ Electric vehicles are fast.  When you take off from a stop light, you feel like 
 The Federal Government provides tax credits from $7500 to help offset the higher electric vehicle cost, as well as promote technology that is good for the environment and good for the United States (local energy source) (https://www.caranddriver.com/research/a31267893/electric-vehicle-tax-credit/).
 
 <img src="chart4.PNG" width="800"/>
+
+** Barriers to Adoption
 
  Most people, when asked, will say they need much more range to drive their vehicle than they actually use.  This is known as 'range anxiety'.  
 
@@ -72,6 +74,8 @@ Range Anxiety --> more charging stations
   Cost --> at home charging and more options so that price goes down.
  
 <img src="chart9.PNG" width="800"/>
+
+ ** Barrier Resolutions
 
 As more manufacturers and models come onto the market, the driving range has dramatically increased.
 
