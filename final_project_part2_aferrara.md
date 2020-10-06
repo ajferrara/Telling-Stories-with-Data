@@ -67,7 +67,7 @@ The Federal Government provides tax credits from $7500 to help offset the higher
 
  Most people, when asked, will say they need much more range to drive their vehicle than they actually use.  This is known as 'range anxiety'.  
 
-<img src="chart5.PNG" width="800"/>
+<img src="range_anxiety.PNG" width="800"/>
 
 Range Anxiety --> more charging stations
 
