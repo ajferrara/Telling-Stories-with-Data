@@ -52,33 +52,34 @@ Electric vehicles are fast.  When you take off from a stop light, you feel like 
 **Government Policies (Incentives)**  
 The Federal Government provides tax credits from $7500 to help offset the higher electric vehicle cost, as well as promote technology that is good for the environment and good for the United States (local energy source) (https://www.caranddriver.com/research/a31267893/electric-vehicle-tax-credit/).
 
-
 <img src="chart4.PNG" width="800"/>
 
  Most people, when asked, will say they need much more range to drive their vehicle than they actually use.  This is known as 'range anxiety'.  
 
 <img src="chart5.PNG" width="800"/>
 
- Cost has been another barrier to EV adoption.  
+Range Anxiety --> more charging stations
 
 <img src="chart6.PNG" width="800"/>
 
-Range Anxiety --> more charging stations
-
 <img src="chart7.PNG" width="800"/>
 
- Cost --> at home charging and more options so that price goes down.
+
 
 <img src="chart8.PNG" width="800"/>
-
+ Cost has been another barrier to EV adoption.  
  
- Benefits to the economy and the US
+  Cost --> at home charging and more options so that price goes down.
+ 
+
 
 <img src="chart9.PNG" width="800"/>
 
 <img src="chart10.PNG" width="800"/>
 
 <img src="chart11.PNG" width="800"/>
+
+A big reason why EV sales increased is because battery prices have come down.
 
 <img src="chart12.PNG" width="800"/>
 
