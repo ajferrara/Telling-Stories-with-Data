@@ -32,7 +32,7 @@ As a Policy-maker, I would like to understand how EVs are better for the United 
 **Increased Sales** 
 Global sales have been increasing year over year.  My mother and members of my extended family have recently purchased electric vehicles.  Tesla is all over the news with their cars and cyber truck.  I wonder why all the interest?
  
-<img src="chart1.PNG" width="800"/>
+<img src="sales_chart.PNG" width="800"/>
 
  Due to:
  
