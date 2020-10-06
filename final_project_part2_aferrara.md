@@ -1,4 +1,4 @@
-# Final Project Part 2 | A.J. Ferrara | Fall 2020 | 94-870   
+## Final Project Part 2 | A.J. Ferrara | Fall 2020 | 94-870   
 
 ## Title:  Electric Vehicles are Here to Stay and Save the Planet
 
@@ -21,6 +21,24 @@ As a Policy-maker, I would like to understand how EVs are better for the United 
 ## Outline 
 
  Setup:  There is an increase in EV sales due to several factors such as: climate change, appeal of the technology and policies.
+ 
+ Increased Sales  
+ 
+ 
+ Due to:
+ 
+ 
+ Climate Change  
+ 
+ 
+ Appeal of the Technology  
+ 
+ 
+ 
+ Government Policies (Incentives)  
+ 
+ 
+ 
  
  Conflict:  Mass adoption is slow due to range anxiety and cost.
  
