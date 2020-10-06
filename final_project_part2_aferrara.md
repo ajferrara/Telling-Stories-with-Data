@@ -56,7 +56,7 @@ A recent study has shown that electric vehicles can reduce hundreds of millions 
 Electric vehicles are fast.  When you take off from a stop light, you feel like you are taking off in an airplane.   Electric vehicles have instant torque due to fewer moving parts and powerful battery (https://theconversation.com/heres-why-electric-cars-have-plenty-of-grunt-oomph-and-torque-115356).   They are also very quiet and very high-tech.  For example, when a driver walks to their Tesla, the door handles slide out!  
  
  
-<img src="chart3.PNG" width="800"/>
+<img src="torque.PNG" width="800"/>
 
 **Government Policies (Incentives)**  
 The Federal Government provides tax credits from $7500 to help offset the higher electric vehicle cost, as well as promote technology that is good for the environment and good for the United States (local energy source) (https://www.caranddriver.com/research/a31267893/electric-vehicle-tax-credit/).
