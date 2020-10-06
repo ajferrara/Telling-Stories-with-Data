@@ -67,7 +67,7 @@ The Federal Government provides tax credits from $7500 to help offset the higher
 
 
 
-<img src="chart1.PNG" width="500"/>
+<img src="chart1.PNG" width="800"/>
 
 
 <img src="chart2.PNG" width="800"/>
