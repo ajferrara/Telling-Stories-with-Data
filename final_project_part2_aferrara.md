@@ -41,7 +41,7 @@ Global sales have been increasing year over year.  My mother and members of my e
 A recent study has shown that electric vehicles can reduce hundreds of millions of carbon dioxide emissions, as well as prevent numerous premature deaths due to pullution (https://www.sciencedaily.com/releases/2020/08/200817123107.htm).  Since 1900, the atmopheric temperature has increase by one degree Celsius.  Most of the warming has occurred in the past forty years, with the six hottest years taking place since 2014 (https://climate.nasa.gov/evidence/).
  
  
-<img src="chart2.PNG" width="800"/>
+<img src="climate_change_chart.PNG" width="800"/>
 
 **Innovative Technology**  
 Electric vehicles are fast.  When you take off from a stop light, you feel like you are taking off in an airplane.   Electric vehicles have instant torque due to fewer moving parts and powerful battery (https://theconversation.com/heres-why-electric-cars-have-plenty-of-grunt-oomph-and-torque-115356).   They are also very quiet and very high-tech.  For example, when a driver walks to their Tesla, the door handles slide out!  
