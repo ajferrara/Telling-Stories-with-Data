@@ -43,11 +43,24 @@ The Federal Government provides tax credits from $7500 to help offset the higher
  
  **Conflict:  Mass adoption is slow due to range anxiety and cost.** 
  
+ Most people, when asked, will say they need much more range to drive their vehicle than they actually use.  This is known as 'range anxiety'.  
  
+ 
+ 
+ 
+ Cost has been another barrier to EV adoption.  
  
  
  
  **Resolution:  Solutions to mitigate and understand the conflict** 
+ 
+ 
+ Range Anxiety --> more charging stations
+ 
+ 
+ Cost --> at home charging and more options so that price goes down.
+ 
+ Benefits to the economy and the US
 
  
 ## Sketches
