@@ -1,7 +1,11 @@
 # Final Project Part 2 | A.J. Ferrara | Fall 2020 | 94-870   
 
+## Title:  Electric Vehicles are Here to Stay and Save the Planet
+
+
+
 ## A high-level summary of your project
-There is a lot more interest in electric vehicles (EVs), so I am going to explore the reasons for the increased interest,  the obstacles that are preventing most people from buying them and showcase the key players and some resolutions to address low EV adoption.
+There is a lot more interest in electric vehicles (EVs), so I am going to explore the reasons for the increased interest,  the obstacles that are preventing many people from buying them and showcase the key manufacturers and some resolutions to address the low EV adoption.
 
 ## Call to Action
 Be more confident to make the switch to an EV!
@@ -23,6 +27,7 @@ As a Policy-maker, I would like to understand how EVs are better for the United 
 
  
 ## Sketches
+
 
 
 <img src="chart1.PNG" width="500"/>
