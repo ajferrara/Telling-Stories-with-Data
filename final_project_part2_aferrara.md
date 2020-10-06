@@ -20,7 +20,7 @@ As a Policy-maker, I would like to understand how EVs are better for the United 
 
 ## Outline 
 
- Setup:  There is an increase in EV sales due to several factors such as: climate change, innovative technology and policies.
+**Setup:  There is an increase in EV sales due to several factors such as: climate change, innovative technology and policies.** 
  
 **Increased Sales** 
 Global sales have been increasing year over year.  My mother and members of my extended family have recently purchased electric vehicles.  Tesla is all over the news with their cars and cyber truck.  I wonder why all the interest?
@@ -41,13 +41,13 @@ The Federal Government provides tax credits from $7500 to help offset the higher
  
  
  
- Conflict:  Mass adoption is slow due to range anxiety and cost.
+ **Conflict:  Mass adoption is slow due to range anxiety and cost.** 
  
  
  
  
  
- Resolution:  Solutions to mitigate and understand the conflict
+ **Resolution:  Solutions to mitigate and understand the conflict** 
 
  
 ## Sketches
