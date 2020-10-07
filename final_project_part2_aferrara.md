@@ -177,6 +177,7 @@ Show a picture of a Tesla in nature
 ## Method and Medium
 Shorthand will be used to build the story.  I would like to use compelling images behind the charts and words.  
 I will also use Canva to build Infographics.  Some of the datapoints lend well to an infographic because the points may not be entirely related or in a quantity to show on a normal chart.  
+Infogram will be used for some infographics where a chart did not make sense.
 Tableau or Flourish will be used to build the charts.
 
 
