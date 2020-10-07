@@ -66,12 +66,10 @@ The Federal Government provides tax credits from $7500 to help offset the higher
 
 <img src="range_anxiety.PNG" width="800"/>
 
-Range Anxiety --> more charging stations
-
-<img src="vehs_per_pump.PNG" width="800"/>
+Infrastructure
 
 
-<img src="gas vs charge capacity2.PNG" width="800"/>
+<img src="gas vs charge capacity3.PNG" width="800"/>
 
 
 Cost has been another barrier to EV adoption.  
