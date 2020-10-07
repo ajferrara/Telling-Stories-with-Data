@@ -87,7 +87,7 @@ As more manufacturers and models come onto the market, the driving range has dra
 
 To complement the longer range, more fast charging stations have been built around the country.
 
-<img src="chart11.PNG" width="800"/>
+<img src="charging locations.PNG" width="800"/>
 
 A big reason why EV sales increased is because battery prices have come down.
 
