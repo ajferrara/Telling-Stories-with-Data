@@ -167,6 +167,9 @@ https://www.visualcapitalist.com/range-evs-major-highway-routes/
 https://afdc.energy.gov/data/
 https://www.energy.gov/eere/vehicles/articles/fotw-1064-january-14-2019-median-all-electric-vehicle-range-grew-73-miles
 
+Where will people charge their vehicle?
+https://pod-point.com/guides/driver/how-to-charge-electric-car
+
 Faster to charge batteries  
 https://www.pocket-lint.com/gadgets/news/130380-future-batteries-coming-soon-charge-in-seconds-last-months-and-power-over-the-air
 https://www.atlasevhub.com/materials/state-ev-registration-data/
