@@ -81,7 +81,7 @@ The Federal Government provides tax credits from $7500 to help offset the higher
 
 ## As more manufacturers and models come onto the market, the driving range has dramatically increased  
 
-<img src="range_options3.PNG"/>
+<img src="range_options4.PNG"/>
 
 ##  There are several options for recharging the battery, but mosst drivers will do it at their home  
 
