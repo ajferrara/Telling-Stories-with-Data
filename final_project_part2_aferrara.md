@@ -91,11 +91,10 @@ To complement the longer range, more fast charging stations have been built arou
 
 A big reason why EV sales increased is because battery prices have come down.
 
-<img src="battery cost down trend.PNG" width="800"/>
+<img src="price drop.PNG" width="800"/>
 
 
-Close out with chart on benefits to the environment
-
+ 
 ## User Research and Interviews
 
 a. the target audience you hope to reach with your story;   
