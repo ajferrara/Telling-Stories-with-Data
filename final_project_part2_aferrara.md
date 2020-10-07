@@ -107,7 +107,7 @@ Folks who may be unsure if an EV purchase is right for them.
 Originally, I had planned to ask specific questions, but found it easier to ask four questions and let the conversation evolve back and forth.
 
 
-<img src="interviews.PNG" width="900" height="500"/>
+<img src="interviews2.PNG" width="900" height="500"/>
 
 
 ## Data
