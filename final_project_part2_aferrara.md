@@ -83,9 +83,9 @@ The Federal Government provides tax credits from $7500 to help offset the higher
 
 <img src="range_options4.PNG"/>
 
-##  There are several options for recharging the battery, but mosst drivers will do it at their home  
+##  There are several options for recharging the battery, but most drivers prefer charging while they sleep
 
-<img src="charging locations.PNG" width="800"/>
+<img src="charging locations2.PNG" width="800"/>
 
 ## The main reason why EV sales increased is because battery prices have come down
 
