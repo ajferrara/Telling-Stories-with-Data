@@ -9,7 +9,7 @@
 There is a lot more interest in electric vehicles (EVs), so I am going to explore the reasons for the increased interest,  the obstacles that are preventing many people from buying them and showcase the key manufacturers and some resolutions to address the low EV adoption.
 
 ## Call to Action
-Be more confident to make the switch to an EV!
+When thinking about an EV purchase, consider all the factors
 
 ## User Stories
 The user stories will address environmental, range and battery recharging and political benefits to EV ownership.
@@ -175,7 +175,9 @@ I will also use Canva to build Infographics.  Some of the datapoints lend well t
 Tableau or Flourish will be used to build the charts.
 
 
-<img src="inside model 3.jpg" width="900"/>
+## When thinking about an EV purchase, consider all the factors
+
+<img src="inside model 3.jpg" width="400"/>
 
 
 ### References  
