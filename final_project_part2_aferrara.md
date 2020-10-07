@@ -93,6 +93,16 @@ A big reason why EV sales increased is because battery prices have come down.
 
 <img src="price drop.PNG" width="800"/>
 
+## When thinking about an EV purchase, consider all the factors
+
+<img src="inside model 3.jpg" width="400"/>
+
+
+
+
+
+
+
 
  
 ## User Research and Interviews
@@ -175,9 +185,7 @@ I will also use Canva to build Infographics.  Some of the datapoints lend well t
 Tableau or Flourish will be used to build the charts.
 
 
-## When thinking about an EV purchase, consider all the factors
 
-<img src="inside model 3.jpg" width="400"/>
 
 
 ### References  
