@@ -77,7 +77,7 @@ Range Anxiety --> more charging stations
 Cost has been another barrier to EV adoption.  
  
  
-<img src="chart9.PNG" width="800"/>
+<img src="sticker price.PNG" width="800"/>
 
 **Barrier Resolutions**
 
