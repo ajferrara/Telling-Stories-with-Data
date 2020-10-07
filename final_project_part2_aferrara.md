@@ -71,7 +71,7 @@ Range Anxiety --> more charging stations
 <img src="vehs_per_pump.PNG" width="800"/>
 
 
-<img src="gas vs charge capacity.PNG" width="800"/>
+<img src="gas vs charge capacity2.PNG" width="800"/>
 
 
 Cost has been another barrier to EV adoption.  
