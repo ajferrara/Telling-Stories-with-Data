@@ -104,12 +104,10 @@ The Federal Government provides tax credits from $7500 to help offset the higher
 a. the target audience you hope to reach with your story;   
 Folks who may be unsure if an EV purchase is right for them.
 
-b. your approach to identifying representative individuals to interview;  
-c. your interview script;  
-d. the findings from your interviews; and  
-e. changes you plan on implementing to your visualizations next week to address the issues identified.  
+Originally, I had planned to ask specific questions, but found it easier to ask four questions and let the conversation evolve back and forth.
 
 
+<img src="interviews.PNG" width="900" height="500"/>
 
 
 ## Data
