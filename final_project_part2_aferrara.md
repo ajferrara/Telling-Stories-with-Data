@@ -83,7 +83,7 @@ Cost has been another barrier to EV adoption.
 
 As more manufacturers and models come onto the market, the driving range has dramatically increased.
 
-<img src="chart10.PNG" width="1200"/>
+<img src="range_options.PNG" width="1200"/>
 
 To complement the longer range, more fast charging stations have been built around the country.
 
