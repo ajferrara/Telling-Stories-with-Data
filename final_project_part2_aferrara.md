@@ -62,32 +62,32 @@ The Federal Government provides tax credits from $7500 to help offset the higher
 
 **Barriers to Adoption**
 
- Most people, when asked, will say they need much more range to drive their vehicle than they actually use.  This is known as 'range anxiety'.  
+ **Most people, when asked, will say they need much more range to drive their vehicle than they actually use.  This is known as 'range anxiety'.**  
 
 <img src="range_anxiety.PNG" width="800"/>
 
-Infrastructure
+**It still takes too long to recharge or 'tap-off' an electric vehicle**
 
 
 <img src="gas vs charge capacity3.PNG" width="800"/>
 
 
-Cost has been another barrier to EV adoption.  
+**EV sticker price has been a barrier to adoption**
  
  
 <img src="sticker price2.PNG" width="800"/>
 
 **Barrier Resolutions**
 
-As more manufacturers and models come onto the market, the driving range has dramatically increased.
+**As more manufacturers and models come onto the market, the driving range has dramatically increased**  
 
 <img src="range_options2.PNG" width="1200" height="400"/>
 
-To complement the longer range, more fast charging stations have been built around the country.
+**There are several options for recharging the battery, but mosst drivers will do it at their home.** 
 
 <img src="charging locations.PNG" width="800"/>
 
-A big reason why EV sales increased is because battery prices have come down.
+**The main reason why EV sales increased is because battery prices have come down**  
 
 <img src="price drop.PNG" width="800"/>
 
