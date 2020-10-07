@@ -38,7 +38,7 @@ Global sales have been increasing year over year.  My mother and members of my e
 **There are pros and cons to adoption**  
 
 
-<img src="pro and cons summary.PNG" width="400"/>
+<img src="pro and cons summary.PNG" width="800"/>
 
 
  **Reasons for Increased Demand**
