@@ -35,7 +35,7 @@ Global sales have been increasing year over year.  My mother and members of my e
 <img src="sales_chart.PNG" width="800"/>
 
 
-**There are pros and cons to adoption**  
+## There are pros and cons to adoption
 
 
 <img src="pro and cons summary.PNG" width="800"/>
@@ -60,44 +60,40 @@ The Federal Government provides tax credits from $7500 to help offset the higher
 
 <img src="incentives.PNG" width="800"/>
 
-**Barriers to Adoption**
+## Barriers to Adoption  
 
  **Most people, when asked, will say they need much more range to drive their vehicle than they actually use.  This is known as 'range anxiety'.**  
 
 <img src="range_anxiety.PNG" width="800"/>
 
-**It still takes too long to recharge or 'tap-off' an electric vehicle**
+## It still takes too long to recharge or 'tap-off' an electric vehicle 
 
 
 <img src="gas vs charge capacity3.PNG" width="800"/>
 
 
-**EV sticker price has been a barrier to adoption**
+## EV sticker price has been a barrier to adoption
  
  
 <img src="sticker price2.PNG" width="800"/>
 
-**Barrier Resolutions**
+## Barrier Resolutions 
 
-**As more manufacturers and models come onto the market, the driving range has dramatically increased**  
+## As more manufacturers and models come onto the market, the driving range has dramatically increased  
 
 <img src="range_options2.PNG" width="1200" height="400"/>
 
-**There are several options for recharging the battery, but mosst drivers will do it at their home.** 
+##  There are several options for recharging the battery, but mosst drivers will do it at their home  
 
 <img src="charging locations.PNG" width="800"/>
 
-**The main reason why EV sales increased is because battery prices have come down**  
+## The main reason why EV sales increased is because battery prices have come down
 
 <img src="price drop.PNG" width="800"/>
 
 ## When thinking about an EV purchase, consider all the factors
 
 <img src="inside model 3.jpg" width="400"/>
-
-
-
-
 
 
 
