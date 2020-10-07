@@ -58,7 +58,7 @@ Electric vehicles are fast.  When you take off from a stop light, you feel like 
 **Government Policies (Incentives)**  
 The Federal Government provides tax credits from $7500 to help offset the higher electric vehicle cost, as well as promote technology that is good for the environment and good for the United States (local energy source) (https://www.caranddriver.com/research/a31267893/electric-vehicle-tax-credit/).
 
-<img src="incentives.PNG" width="800"/>
+<img src="incentives2.PNG" width="800"/>
 
 ## Barriers to Adoption  
 
@@ -125,8 +125,8 @@ https://climate.nasa.gov/evidence/
 Appeal of the technology -  
 https://www.zeroto60times.com/browse-by-make/
 
-Policies - 
- (https://www.nbcnews.com/science/environment/california-gov-signs-order-banning-sale-gasoline-powered-cars-2035-n1240878)  
+Policies - tax credits - 
+(https://blog.burnsmcd.com/which-incentives-are-driving-electric-vehicle-adoption)
  
 
 #### Conflict
@@ -136,7 +136,9 @@ https://www.truecar.com/blog/which-generation-is-going-green/
 
 EV range and cost 
 https://www.fueleconomy.gov/  
+https://www.energy.gov/eere/vehicles/articles/fotw-1064-january-14-2019-median-all-electric-vehicle-range-grew-73-miles
 https://evcharging.enelx.com/news/blog/512-electric-car-battery-life
+https://www.fleetcarma.com/truth-about-electric-vehicle-range-anxiety/
 https://chart-na1.emarketer.com/234301/perception-of-battery-electric-vehicles-bevs-among-us-adults-may-2019-of-respondents
 
 EV Infrastructure 
@@ -157,7 +159,7 @@ https://cds-frost-com.proxy.library.cmu.edu/p/55399#!/nts/c?id=9B18-00-63-00-00&
 recent article on global EV range by manufacturer and cost to the consumer  
 https://www.visualcapitalist.com/range-evs-major-highway-routes/
 https://afdc.energy.gov/data/
-https://www.energy.gov/eere/vehicles/articles/fotw-1064-january-14-2019-median-all-electric-vehicle-range-grew-73-miles
+
 
 Where will people charge their vehicle?
 https://pod-point.com/guides/driver/how-to-charge-electric-car
@@ -166,12 +168,9 @@ Faster to charge batteries
 https://www.pocket-lint.com/gadgets/news/130380-future-batteries-coming-soon-charge-in-seconds-last-months-and-power-over-the-air
 https://www.atlasevhub.com/materials/state-ev-registration-data/
 
-Testimonials   
-https://cleanvehiclerebate.org/eng/ev/testimonials
-
-
+ 
 #### Call to Action
-Show a picture of a Tesla in nature
+Show a picture of the inside of a Tesla
 
 
 ## Method and Medium
@@ -179,8 +178,6 @@ Shorthand will be used to build the story.  I would like to use compelling image
 I will also use Canva to build Infographics.  Some of the datapoints lend well to an infographic because the points may not be entirely related or in a quantity to show on a normal chart.  
 Infogram will be used for some infographics where a chart did not make sense.
 Tableau or Flourish will be used to build the charts.
-
-
 
 
 
