@@ -71,10 +71,11 @@ Range Anxiety --> more charging stations
 <img src="vehs_per_pump.PNG" width="800"/>
 
 
-<img src="chart8.PNG" width="800"/>
- Cost has been another barrier to EV adoption.  
+<img src="gas vs charge capacity.PNG" width="800"/>
+
+
+Cost has been another barrier to EV adoption.  
  
-  Cost --> at home charging and more options so that price goes down.
  
 <img src="chart9.PNG" width="800"/>
 
