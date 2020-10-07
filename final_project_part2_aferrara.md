@@ -1,6 +1,6 @@
 ## Final Project Part 2 | A.J. Ferrara | Fall 2020 | 94-870   
 
-## Title:  Electric Vehicles are Here to Stay and Save the Planet
+## Title:  Given the pros and cons, purchasing an electric vehicle makes sense
 
 <img src="mitchell-kmetz-xdk3tVmRxEQ-unsplash.jpg" width="800"/>
 
