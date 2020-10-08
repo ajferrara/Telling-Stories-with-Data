@@ -83,7 +83,8 @@ The Federal Government provides tax credits from $7500 to help offset the higher
 
 <img src="range_options4.PNG"/>
 
-##  There are several options for recharging the battery, but most drivers prefer charging while they sleep
+##  There are several options for recharging the battery, but most drivers prefer charging while they sleep.
+## As one viewer said, "Getting gas is inconvenient" 
 
 <img src="charging locations2.PNG" width="800"/>
 
