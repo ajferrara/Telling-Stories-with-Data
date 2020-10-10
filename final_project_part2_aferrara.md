@@ -58,6 +58,8 @@ Electric vehicles are fast.  When you take off from a stop light, you feel like 
 **Government Policies (Incentives)**  
 The Federal Government provides tax credits from $7500 to help offset the higher electric vehicle cost, as well as promote technology that is good for the environment and good for the United States (local energy source) (https://www.caranddriver.com/research/a31267893/electric-vehicle-tax-credit/).
 
+https://www.extremetech.com/extreme/297975-will-tesla-gm-and-nissan-get-a-second-shot-at-ev-tax-credits
+
 <img src="incentives2.PNG" width="800"/>
 
 ## Barriers to Adoption  
