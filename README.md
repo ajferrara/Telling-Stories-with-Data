@@ -33,6 +33,7 @@ Here is where all the cool visualizations will go!
 * [Assignment Three and Four](/assignment_three.md)
 * [Final Project: Part 1](/final_project_part1_aferrara.md)  
 * [Final Project: Part 2](/final_project_part2_aferrara.md)
+* [Final Project](/final_project_aferrara.md)
 
 
 
