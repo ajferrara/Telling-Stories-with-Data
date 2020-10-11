@@ -53,32 +53,20 @@ Include any other information that helps round out your data story. (Part III)
 
 References (in order of use)
 
-First Image:  https://unsplash.com/s/photos/mitchell-kmetz
-Statista:  https://www-statista-com.proxy.library.cmu.edu/study/50929/electric-vehicles-in-the-us/
-NASA:  https://climate.nasa.gov/evidence/
-NYTimes:  https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html
-Equiterre:  https://www.equiterre.org/en/solution/the-electric-car-explained-in-5-questions
-ZeroToSixtyTimes:  https://www.zeroto60times.com/browse-by-make/
-BurnsMCD:  https://blog.burnsmcd.com/which-incentives-are-driving-electric-vehicle-adoption
-VisualCapitalist:  https://www.visualcapitalist.com/range-evs-major-highway-routes/ https://afdc.energy.gov/data/
-EVAdoption:  https://evadoption.com/ev-charging-stations-statistics/
-EMarketer:  https://chart-na1.emarketer.com/234301/perception-of-battery-electric-vehicles-bevs-among-us-adults-may-2019-of-respondents (https://wallbox.com/en_us/how-do-evs-compare-to-gas-cars
-PodPoint:  https://pod-point.com/guides/driver/how-to-charge-electric-car
-CarAndDriver:  https://www.caranddriver.com/shopping-advice/a32494027/ev-vs-gas-cheaper-to-own/
+First Image:  https://unsplash.com/s/photos/mitchell-kmetz  
+Statista:  https://www-statista-com.proxy.library.cmu.edu/study/50929/electric-vehicles-in-the-us/  
+NASA:  https://climate.nasa.gov/evidence/  
+NYTimes:  https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html  
+Equiterre:  https://www.equiterre.org/en/solution/the-electric-car-explained-in-5-questions  
+ZeroToSixtyTimes:  https://www.zeroto60times.com/browse-by-make/  
+BurnsMCD:  https://blog.burnsmcd.com/which-incentives-are-driving-electric-vehicle-adoption  
+VisualCapitalist:  https://www.visualcapitalist.com/range-evs-major-highway-routes/ https://afdc.energy.gov/data/  
+EVAdoption:  https://evadoption.com/ev-charging-stations-statistics/  
+EMarketer:  https://chart-na1.emarketer.com/234301/perception-of-battery-electric-vehicles-bevs-among-us-adults-may-2019-of-respondents (https://wallbox.com/en_us/how-do-evs-compare-to-gas-cars  
+PodPoint:  https://pod-point.com/guides/driver/how-to-charge-electric-car  
+CarAndDriver:  https://www.caranddriver.com/shopping-advice/a32494027/ev-vs-gas-cheaper-to-own/  
 E360:  https://e360.yale.edu/digest/electric-cars-could-be-as-affordable-as-conventional-vehicles-in-just-three-years
 Last Image:   https://www.flickr.com/photos/jurvetson/35446206643/
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 [Back to Main Page](https://ajferrara.github.io/Telling.Stories.with.Data/)
