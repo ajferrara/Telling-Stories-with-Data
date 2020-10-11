@@ -22,20 +22,51 @@ Design and user research (Part II)
 Sketches and storyboards (Part II)
 User research protocol and findings (Part II)
 Wireframes (Part II)
+
+
 Final data story (Part III)
 
-A few paragraphs that talk about the intended audience for your final data story.  Include any personas and / or other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience. 
-A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
-Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
-Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet here (Links to an external site.).  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.  (Part III)
-Include all references for materials used.  It's your responsibility to ensure you have permission to use imagery and other assets, and that you use them appropriately.  A reminder to NOT USE COPYRIGHTED MATERIAL - see the library's guide to ensure you are using images correctlyLinks to an external site..  Make sure to add / update any citations and / or other content that you used to create your data story.  References should also be clearly identified on your final data story itself.  (Part III)
-Include any other information that helps round out your data story. (Part III)
+After the Interviews and Crtiques from classmates, I have revised my target audience and presentation.  The target audience is anyone who is not familiar with Electric Vehicles and would benefit from a review of the pros and cons.  I realized that this audience may not know current electric vehicle brands and models, so I removed them from the presentation.  I decided to make it more clear EV versus Non-EV, instead of Tesla Model 3 versus Toyota Camry.  When I interviewed co-wokers, they understood most of my charts, but during the Crtiques, I saw much more diffuclty in comprehending the charts without me talking, so I revamped many of the chart to contain less data and be more intuitive.  Here are some examples of changes I made after interviews/critiques:
+
+* Instead of flowing from setup -> conflict -> resolution, I combined conflict and resolution.  I got this feedabck from an interview.  By doing this, it helped the audience link the conflict to its resolution.  So, when I talk about climate change,  I then show how EVs can benefit the environment, instead of going onto the next benefit (innovative technology).  
+* Most of my charts were too busy for the class critiques.  I had to explain them.  For example, one benefit to buying an EV is the federal tax credit of $7500.  The chart for this showed all the manufacturers and range of tax credits ($7500 -> $1800 -> expired ($0)).  The point of the chart was to show there are a lot of tax credits, so I changed the chart to show total sales from tax credits and did not talk about the amount.
+* Another change from the class critique was to the innovative technology chart.  It was not clear that the EV was the fastest car because the class did not realize Tesla was an EV.  So, I removed all the brands/models and showed just an EV and Non-EV icon racing to a finish line.  This was an idea from Shreyas.
+* Another change I made was for the range anxiety chart.  I was trying to show geographically from Pittsburgh, the range that various brands/models of EVs can travel on a full battery.  This chart also required too much explanation, so I simplified it with the EV/Non-EV icons and less information/visuals.
+* Finally, the infrastructure conflict (lack of charging stations) was not coming through in my original charts.  So, I decided to focus on an aspect of the insight that was easier to show -- total gas pumps versus total charging pumps.  Originally, I tried to convey total pumps versus vehicles on the road verus time to fill up or charge and this was too complicated to convey.
 
 
 
 
 
 Shorthand Link:  
+
+
+Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
+
+Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet here (Links to an external site.).  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.  (Part III)
+
+Include all references for materials used.  It's your responsibility to ensure you have permission to use imagery and other assets, and that you use them appropriately.  A reminder to NOT USE COPYRIGHTED MATERIAL - see the library's guide to ensure you are using images correctlyLinks to an external site..  Make sure to add / update any citations and / or other content that you used to create your data story.  References should also be clearly identified on your final data story itself.  (Part III)
+Include any other information that helps round out your data story. (Part III)
+
+
+
+
+References (in order of use)
+
+First Image:  https://unsplash.com/s/photos/mitchell-kmetz
+Statista:  https://www-statista-com.proxy.library.cmu.edu/study/50929/electric-vehicles-in-the-us/
+NASA:  https://climate.nasa.gov/evidence/
+NYTimes:  https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html
+Equiterre:  https://www.equiterre.org/en/solution/the-electric-car-explained-in-5-questions
+ZeroToSixtyTimes:  https://www.zeroto60times.com/browse-by-make/
+BurnsMCD:  https://blog.burnsmcd.com/which-incentives-are-driving-electric-vehicle-adoption
+VisualCapitalist:  https://www.visualcapitalist.com/range-evs-major-highway-routes/ https://afdc.energy.gov/data/
+EVAdoption:  https://evadoption.com/ev-charging-stations-statistics/
+EMarketer:  https://chart-na1.emarketer.com/234301/perception-of-battery-electric-vehicles-bevs-among-us-adults-may-2019-of-respondents (https://wallbox.com/en_us/how-do-evs-compare-to-gas-cars
+PodPoint:  https://pod-point.com/guides/driver/how-to-charge-electric-car
+CarAndDriver:  https://www.caranddriver.com/shopping-advice/a32494027/ev-vs-gas-cheaper-to-own/
+E360:  https://e360.yale.edu/digest/electric-cars-could-be-as-affordable-as-conventional-vehicles-in-just-three-years
+Last Image:   https://www.flickr.com/photos/jurvetson/35446206643/
 
 
 
