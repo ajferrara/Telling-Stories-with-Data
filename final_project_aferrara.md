@@ -56,6 +56,8 @@ References (in order of use)
 
 First Image:  https://unsplash.com/s/photos/mitchell-kmetz  
 Evercharge:  https://evercharge.net/blog/evs-are-facing-a-supply-and-demand-problem/
+Tesla Store Image:  "Tesla Store @ WestFields Shopping Center" by mangopulp2008 is licensed under CC BY-NC-ND 2.0
+https://search.creativecommons.org/photos/2514af1a-20da-4061-aa58-80661c6baa28
 Statista:  https://www-statista-com.proxy.library.cmu.edu/study/50929/electric-vehicles-in-the-us/  
 OurWorldinData:  https://ourworldindata.org/grapher/co2-concentration-long-term
 Equiterre:  https://www.equiterre.org/en/solution/the-electric-car-explained-in-5-questions  
