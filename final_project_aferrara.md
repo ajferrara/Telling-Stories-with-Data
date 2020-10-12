@@ -1,4 +1,4 @@
-# Final Project| A.J. Ferrara | Fall 2020 | 94-870
+# Final Project | A.J. Ferrara | Fall 2020 | 94-870
 
 
 A final project Github page that summarizes all the work you've done thus far to create your final project.  You don't need to re-write or recreate content you've already created for parts I and II of this assignment as long as it's organized in an easy-to-follow way.  This document should serve as a kind of "behind the scenes" look at how you created your work.  When reviewing Part III of your final assignment, I should be able to clearly follow along in your progress - noting how you used everything you've created in Part I and Part II to develop your final project. 
