@@ -55,6 +55,7 @@ Include any other information that helps round out your data story. (Part III)
 References (in order of use)
 
 First Image:  https://unsplash.com/s/photos/mitchell-kmetz  
+Evercharge:  https://evercharge.net/blog/evs-are-facing-a-supply-and-demand-problem/
 Statista:  https://www-statista-com.proxy.library.cmu.edu/study/50929/electric-vehicles-in-the-us/  
 OurWorldinData:  https://ourworldindata.org/grapher/co2-concentration-long-term
 Equiterre:  https://www.equiterre.org/en/solution/the-electric-car-explained-in-5-questions  
