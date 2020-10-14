@@ -69,7 +69,9 @@ EMarketer:  https://chart-na1.emarketer.com/234301/perception-of-battery-electri
 PodPoint:  https://pod-point.com/guides/driver/how-to-charge-electric-car  
 CarAndDriver:  https://www.caranddriver.com/shopping-advice/a32494027/ev-vs-gas-cheaper-to-own/  
 E360:  https://e360.yale.edu/digest/electric-cars-could-be-as-affordable-as-conventional-vehicles-in-just-three-years
+Charging Station Image:  https://www.indiamart.com/proddetail/electric-vehicle-solar-charging-stations-20773113633.html
 Last Image:   https://www.flickr.com/photos/jurvetson/35446206643/
+Smart-Energy:  https://www.smart-energy.com/industry-sectors/smart-energy/new-study-reveals-interesting-statistics-on-ev-ownership-and-consumer-interest/
 
 
 [Back to Main Page](https://ajferrara.github.io/Telling.Stories.with.Data/)
