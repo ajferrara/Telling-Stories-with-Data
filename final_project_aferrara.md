@@ -23,6 +23,10 @@ I struggled with Shorthand to effectively showcase the charts and commentary on 
 
 I had to use many sources to tell the story, so I feel the story is a little fragmented.  EVs in the US are still in an infancy, dominated by Tesla, with most adoption in California.  I did not realize that most of the global EV growth is in China and Europe, due to these regions being more aggressive to reduce carbon emissions and reliance on oil (gas is more expensive in Europe than in the US).
 
+Another challenge was that I could not use pictures/icons of actual EVs in my charts since they are copyrighted.  I found the icons to be lacking and often, not in the correct direction for me to use them effectively (car always faces left, etc).  However, the non-EV audience, may not care about specific brands, since they may not know anything about Tesla, let alone the Chevrolet Bolt, etc.  
+
+I did see your feedback about electric trucks, but did not have time to modify my story to include them.  My mom just bought a Tesla Model 3, mostly because of the pandemic and not wanting to stop for gas, so I leveraged her for her thoughts.  After all, she is in the key demographic of current EV adopters.  
+
 **Shorthand Link:**  
 https://carnegiemellon.shorthandstories.com/-the-growing-interest-in-electric-vehicles---the-pros-and-cons--/index.html
 
