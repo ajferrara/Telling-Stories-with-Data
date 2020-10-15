@@ -5,7 +5,7 @@ Part I was the initial story outline.  Since then, I have changed the call to ac
 [Final Project: Part 1](/final_project_part1_aferrara.md)
 
 **Mock-ups and user research (Part II)**  
-In Part II, I iterated over each char mock-up and interviewed co-workers and obtained feedback from classmates.  With this new information, I re-worked some charts.  
+In Part II, I iterated over each chart mock-up and interviewed co-workers and obtained feedback from classmates.  With this new information, I re-worked some charts.  
 [Final Project: Part 2](/final_project_part2_aferrara.md)
 
 **Final data story (Part III)**  
@@ -21,7 +21,7 @@ After the Interviews and crtiques from classmates, I have revised my target audi
 **Final Presentation  (Part III)**   
 I struggled with Shorthand to effectively showcase the charts and commentary on the same slides.  However, once I figured this out, I was able to enhance the story with a lot more images.  I do wish that Tableau would fit better within Shorthand - maybe be able to customize the placement and size of the Tableau chart from within Shorthand.  My favorite charts are the two climate change-related ones.  When I showed the story to my mother-in-law, she said she liked those two charts the most as well.  She also liked the overall story and learned new things about EVs.   
 
-I had to use many sources to tell the story, so I feel the story is a little fragmented.  EVs in the US are still in an infancy, dominated by Tesla and most adoption in California.  I did not realize the most of the global growth is in China and Europe, due to these regions being more aggressive to reduce carbon emissions and reliance on oil (gas is more expensive in Europe than in the US).
+I had to use many sources to tell the story, so I feel the story is a little fragmented.  EVs in the US are still in an infancy, dominated by Tesla, with most adoption in California.  I did not realize that most of the global EV growth is in China and Europe, due to these regions being more aggressive to reduce carbon emissions and reliance on oil (gas is more expensive in Europe than in the US).
 
 **Shorthand Link:**  
 https://carnegiemellon.shorthandstories.com/-the-growing-interest-in-electric-vehicles---the-pros-and-cons--/index.html
