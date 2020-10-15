@@ -1,15 +1,14 @@
 # Final Project | A.J. Ferrara | Fall 2020 | 94-870
 
-**The idea and outline (Part I)** 
+**The idea and outline (Part I)**   
 Part I was the initial story outline.  Since then, I have changed the call to action to be more impactful.  Instead of 'When thinking about an EV purchase, consider all the factors', I decided that the story was more pro-EV and should help non-adopters be more informed and possibly look into an EV purchase.  
-* [Final Project: Part 1](/final_project_part1_aferrara.md)
+[Final Project: Part 1](/final_project_part1_aferrara.md)
 
 **Mock-ups and user research (Part II)**  
 In Part II, I iterated over each char mock-up and interviewed co-workers and obtained feedback from classmates.  With this new information, I re-worked some charts.
-* [Final Project: Part 2](/final_project_part2_aferrara.md)
+[Final Project: Part 2](/final_project_part2_aferrara.md)
 
 **Final data story (Part III)**  
-
 After the Interviews and crtiques from classmates, I have revised my target audience and presentation.  The target audience is anyone who is not familiar with Electric Vehicles and would benefit from a review of the pros and cons.  I realized that this audience may not know current electric vehicle brands and models, so I removed them from the presentation.  I decided to make it more clear EV versus Non-EV, instead of Tesla Model 3 versus Toyota Camry.  When I interviewed co-wokers, they understood most of my charts, but during the Crtiques, I saw much more diffuclty in comprehending the charts without me talking, so I revamped many of the chart to contain less data and be more intuitive.  Here are some examples of changes I made after interviews/critiques:
 
 * Instead of flowing from setup -> conflict -> resolution, I combined conflict and resolution.  I got this feedabck from an interview.  By doing this, it helped the audience link the conflict to its resolution.  So, when I talk about climate change,  I then show how EVs can benefit the environment, instead of going onto the next benefit (innovative technology).  
@@ -24,10 +23,11 @@ I struggled with Shorthand to effectively showcase the charts and commentary on 
 
 I had to use many sources to tell the story, so I feel the story is a little fragmented.  EVs in the US are still in an infancy, dominated by Tesla and most adoption in California.  I did not realize the most of the global growth is in China and Europe, due to these regions being more aggressive to reduce carbon emissions and reliance on oil (gas is more expensive in Europe than in the US).
 
-**Shorthand Link:**  https://carnegiemellon.shorthandstories.com/-the-growing-interest-in-electric-vehicles---the-pros-and-cons--/index.html
+**Shorthand Link:**  
+https://carnegiemellon.shorthandstories.com/-the-growing-interest-in-electric-vehicles---the-pros-and-cons--/index.html
 
 **References (in order of use)**  
-* each image has its citation in its caption
+Each image has its citation in its caption
 
 Evercharge:  https://evercharge.net/blog/evs-are-facing-a-supply-and-demand-problem/   
 OurWorldinData:  https://ourworldindata.org/grapher/co2-concentration-long-term  
