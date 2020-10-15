@@ -5,7 +5,7 @@ Part I was the initial story outline.  Since then, I have changed the call to ac
 [Final Project: Part 1](/final_project_part1_aferrara.md)
 
 **Mock-ups and user research (Part II)**  
-In Part II, I iterated over each char mock-up and interviewed co-workers and obtained feedback from classmates.  With this new information, I re-worked some charts.
+In Part II, I iterated over each char mock-up and interviewed co-workers and obtained feedback from classmates.  With this new information, I re-worked some charts.  
 [Final Project: Part 2](/final_project_part2_aferrara.md)
 
 **Final data story (Part III)**  
