@@ -1,7 +1,7 @@
 # Final Project | A.J. Ferrara | Fall 2020 | 94-870
 
 **The idea and outline (Part I)**   
-Part I was the initial story outline.  Since then, I have changed the call to action to be more impactful.  Instead of 'When thinking about an EV purchase, consider all the factors', I decided that the story was more pro-EV and should help non-adopters be more informed and possibly look into an EV purchase.  
+Part I was the initial story outline.  Since then, I have changed the call to action to be more impactful.  Instead of 'When thinking about an EV purchase, consider all the factors', I decided that the story was more pro-EV and should help non-adopters be more informed and possibly look into an EV purchase.  The new call to action is 'Take Another Look at an EV!'.  
 [Final Project: Part 1](/final_project_part1_aferrara.md)
 
 **Mock-ups and user research (Part II)**  
