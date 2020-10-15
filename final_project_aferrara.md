@@ -44,7 +44,7 @@ EVAdoption:  https://evadoption.com/ev-charging-stations-statistics/
 EMarketer:  https://chart-na1.emarketer.com/234301/perception-of-battery-electric-vehicles-bevs-among-us-adults-may-2019-of-respondents (https://wallbox.com/en_us/how-do-evs-compare-to-gas-cars  
 PodPoint:  https://pod-point.com/guides/driver/how-to-charge-electric-car  
 CarAndDriver:  https://www.caranddriver.com/shopping-advice/a32494027/ev-vs-gas-cheaper-to-own/  
-E360:  https://e360.yale.edu/digest/electric-cars-could-be-as-affordable-as-conventional-vehicles-in-just-three-years
+E360:  https://e360.yale.edu/digest/electric-cars-could-be-as-affordable-as-conventional-vehicles-in-just-three-years  
 Smart-Energy:  https://www.smart-energy.com/industry-sectors/smart-energy/new-study-reveals-interesting-statistics-on-ev-ownership-and-consumer-interest/
 
 
