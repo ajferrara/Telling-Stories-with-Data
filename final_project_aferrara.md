@@ -54,12 +54,9 @@ Include any other information that helps round out your data story. (Part III)
 
 References (in order of use)
 
-First Image:  https://unsplash.com/s/photos/mitchell-kmetz  
-Evercharge:  https://evercharge.net/blog/evs-are-facing-a-supply-and-demand-problem/
-Tesla Store Image:  "Tesla Store @ WestFields Shopping Center" by mangopulp2008 is licensed under CC BY-NC-ND 2.0
-https://search.creativecommons.org/photos/2514af1a-20da-4061-aa58-80661c6baa28  
-Statista:  https://www-statista-com.proxy.library.cmu.edu/study/50929/electric-vehicles-in-the-us/  
+Evercharge:  https://evercharge.net/blog/evs-are-facing-a-supply-and-demand-problem/   
 OurWorldinData:  https://ourworldindata.org/grapher/co2-concentration-long-term  
+NASA:  https://climate.nasa.gov/
 Equiterre:  https://www.equiterre.org/en/solution/the-electric-car-explained-in-5-questions  
 ZeroToSixtyTimes:  https://www.zeroto60times.com/browse-by-make/  
 BurnsMCD:  https://blog.burnsmcd.com/which-incentives-are-driving-electric-vehicle-adoption  
@@ -69,8 +66,6 @@ EMarketer:  https://chart-na1.emarketer.com/234301/perception-of-battery-electri
 PodPoint:  https://pod-point.com/guides/driver/how-to-charge-electric-car  
 CarAndDriver:  https://www.caranddriver.com/shopping-advice/a32494027/ev-vs-gas-cheaper-to-own/  
 E360:  https://e360.yale.edu/digest/electric-cars-could-be-as-affordable-as-conventional-vehicles-in-just-three-years
-Charging Station Image:  https://www.indiamart.com/proddetail/electric-vehicle-solar-charging-stations-20773113633.html
-Last Image:   https://www.flickr.com/photos/jurvetson/35446206643/
 Smart-Energy:  https://www.smart-energy.com/industry-sectors/smart-energy/new-study-reveals-interesting-statistics-on-ev-ownership-and-consumer-interest/
 
 
