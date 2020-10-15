@@ -88,7 +88,7 @@ https://cleanvehiclerebate.org/eng/ev/testimonials
 
 
 #### Call to Action
-Show a picture of a happy Tesla owner.
+Take Another Look at an EV!
 
 
 ## Method and Medium
